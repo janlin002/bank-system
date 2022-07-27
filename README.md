@@ -8,6 +8,4 @@ redux-saga
 
 use-immer
 
-formik
-
-yup
+formik & yup
